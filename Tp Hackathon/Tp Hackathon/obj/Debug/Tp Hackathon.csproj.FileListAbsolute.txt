@@ -1,0 +1,11 @@
+D:\ProgINI\Tp Hackathon\Tp Hackathon\Tp Hackathon\bin\Debug\Tp Hackathon.exe.config
+D:\ProgINI\Tp Hackathon\Tp Hackathon\Tp Hackathon\bin\Debug\Tp Hackathon.exe
+D:\ProgINI\Tp Hackathon\Tp Hackathon\Tp Hackathon\bin\Debug\Tp Hackathon.pdb
+D:\ProgINI\Tp Hackathon\Tp Hackathon\Tp Hackathon\obj\Debug\Tp Hackathon.csprojAssemblyReference.cache
+D:\ProgINI\Tp Hackathon\Tp Hackathon\Tp Hackathon\obj\Debug\Tp_Hackathon.Form1.resources
+D:\ProgINI\Tp Hackathon\Tp Hackathon\Tp Hackathon\obj\Debug\Tp_Hackathon.VentanaING.resources
+D:\ProgINI\Tp Hackathon\Tp Hackathon\Tp Hackathon\obj\Debug\Tp_Hackathon.Properties.Resources.resources
+D:\ProgINI\Tp Hackathon\Tp Hackathon\Tp Hackathon\obj\Debug\Tp Hackathon.csproj.GenerateResource.cache
+D:\ProgINI\Tp Hackathon\Tp Hackathon\Tp Hackathon\obj\Debug\Tp Hackathon.csproj.CoreCompileInputs.cache
+D:\ProgINI\Tp Hackathon\Tp Hackathon\Tp Hackathon\obj\Debug\Tp Hackathon.exe
+D:\ProgINI\Tp Hackathon\Tp Hackathon\Tp Hackathon\obj\Debug\Tp Hackathon.pdb
